@@ -1,0 +1,14 @@
+{
+"random_state" : 42,
+"img_height" : 224,
+"img_width" : 224,
+"batch_size" : 32,
+"epoch" : 35,
+"base_path" : "../ODIR-5K/ODIR-5K/",
+"test_path" : "../ODIR-5K/ODIR-5K/Testing Images/",
+"train_path" : "../ODIR-5K/ODIR-5K/Training Images/",
+"val_path" : "../ODIR-5K/ODIR-5K/Validation Images/",
+"train_path_hist" : "../ODIR-5K/ODIR-5K/Training Images/Hist train",
+"val_path_hist" : "../ODIR-5K/ODIR-5K/Validation Images/Hist val",
+"model_save_path" : "../Models/"
+}
